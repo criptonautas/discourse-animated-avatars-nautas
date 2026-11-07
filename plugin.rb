@@ -3,7 +3,7 @@
 # about: This plugin adds support for animated avatars
 # version: 0.1
 # authors: Discourse — Forked by Criptonautas
-# url: https://github.com/somos-criptonautas/discourse-animated-avatars-nautas
+# url: https://github.com/criptonautas/discourse-animated-avatars-nautas
 
 module ::DiscourseAnimatedAvatars
   PLUGIN_NAME = "discourse-animated-avatars-nautas"

@@ -30,7 +30,7 @@ hooks:
     - exec:
         cd: $home/plugins
         cmd:
-          - git clone https://github.com/somos-criptonautas/discourse-animated-avatars-nautas.git
+          - git clone https://github.com/criptonautas/discourse-animated-avatars-nautas.git
     - exec:
         cd: $home/plugins/discourse-animated-avatars-nautas
         raise_on_fail: false
